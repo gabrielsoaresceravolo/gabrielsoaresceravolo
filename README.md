@@ -18,11 +18,13 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" height="30" width="40" />
 </p>
 
-<br>
+<hr>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
-
+  <p align="center">
+    <a href="https://www.linkedin.com/in/gabriel-soares-ceravolo-29940a21a">
+        <img src="https://img.shields.io/badge/linkedin-1a1b27?style=for-the-badge&logo=linkedin&logoColor=9644CD" alt="Linkedin">
+    </a>
+    <a href="https://www.instagram.com/gabriel.strider">
+        <img src="https://img.shields.io/badge/Instagram-1a1b27?style=for-the-badge&logo=Instagram&logoColor=9644CD" alt="Instagram">
+    </a>
+  </p>
