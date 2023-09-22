@@ -22,9 +22,9 @@
 
   <p align="center">
     <a href="https://www.linkedin.com/in/gabriel-soares-ceravolo-29940a21a">
-        <img src="https://img.shields.io/badge/linkedin-1a1b27?style=for-the-badge&logo=linkedin&logoColor=9644CD" alt="Linkedin">
+        <img src="https://img.shields.io/badge/linkedin-1a1b27?style=for-the-badge&logo=linkedin&logoColor=5ce0f2" alt="Linkedin">
     </a>
     <a href="https://www.instagram.com/gabriel.strider">
-        <img src="https://img.shields.io/badge/Instagram-1a1b27?style=for-the-badge&logo=Instagram&logoColor=9644CD" alt="Instagram">
+        <img src="https://img.shields.io/badge/Instagram-1a1b27?style=for-the-badge&logo=Instagram&logoColor=5ce0f2" alt="Instagram">
     </a>
   </p>
