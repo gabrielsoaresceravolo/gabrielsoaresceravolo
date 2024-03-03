@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/GabrielSoaresCeravolo/GabrielSoaresCeravolo/assets/132103393/7af0c35d-f235-4f45-a6bf-a9ce56df64c5" alt="github-header">
+ <img src="https://github.com/GabrielSoaresCeravolo/GabrielSoaresCeravolo/assets/132103393/f9a29f4a-7ba4-4845-ad4e-5ceca954e9e3" alt="github-header">
 </p>
 
 <hr>
