@@ -1,6 +1,7 @@
 <p align="center">
- <img src="https://github.com/GabrielSoaresCeravolo/GabrielSoaresCeravolo/assets/132103393/f9a29f4a-7ba4-4845-ad4e-5ceca954e9e3" alt="github-header">
+ <img src="https://github.com/GabrielSoaresCeravolo/GabrielSoaresCeravolo/assets/132103393/393d9a2f-e66c-430c-9a92-765efb610fe5" alt="github-header">
 </p>
+
 
 <hr>
 
