@@ -1,31 +1,20 @@
-<p align="center">
- <img src="https://github.com/GabrielSoaresCeravolo/GabrielSoaresCeravolo/assets/132103393/393d9a2f-e66c-430c-9a92-765efb610fe5" alt="github-header">
-</p>
-
-
-<hr>
-
-<p align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="angularjs" height="30" width="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="css3" height="30" width="40" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="html5" height="30" width="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" height="30" width="40" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="canva" height="30" width="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" height="30" width="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" height="30" width="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="csharp" height="30" width="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" height="30" width="40" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql" height="30" width="40" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" height="30" width="40" />
-</p>
+ <p align="center">
+  <img src="https://github.com/GabrielSoaresCeravolo/GabrielSoaresCeravolo/assets/132103393/393d9a2f-e66c-430c-9a92-765efb610fe5" alt="github-header">
+ <p>
 
 <hr>
 
-  <p align="center">
-    <a href="https://www.linkedin.com/in/gabriel-soares-ceravolo-29940a21a">
-        <img src="https://img.shields.io/badge/linkedin-1a1b27?style=for-the-badge&logo=linkedin&logoColor=5ce0f2" alt="Linkedin">
-    </a>
-    <a href="https://www.instagram.com/gabriel.strider">
-        <img src="https://img.shields.io/badge/Instagram-1a1b27?style=for-the-badge&logo=Instagram&logoColor=5ce0f2" alt="Instagram">
-    </a>
-  </p>
+ <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,bash,linux,kali,aws,gcp,azure,py,c,cpp" />
+  </a>
+ </p>
+
+<hr>
+
+<div align="center">
+ <a href="https://www.linkedin.com/in/gabriel-soares-ceravolo-29940a21a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ <a href="mailto:contato@gabriel.ceravolo26.tech"><img src="https://img.shields.io/badge/-Gmail-DB4437?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
+
+
