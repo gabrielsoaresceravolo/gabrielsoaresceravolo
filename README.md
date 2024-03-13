@@ -4,6 +4,12 @@
  </a>
 </div>
 
+<div align="center">
+ <a href="https://git.io/typing-svg">
+  <img src="https://github.com/gabrielsoaresceravolo/gabrielsoaresceravolo/assets/132103393/4e86faf8-5f02-4126-a574-16008c15d453" alt="Typing SVG" />
+ </a>
+</div>
+
 <hr>
 
  <p align="center">
@@ -23,10 +29,18 @@
 
 </div>
 
-<a href="https://gabrielsoaresceravolo.github.io">
- <p align="center">
-  Visite Meu Portifolio Online
+<div align="center">
+ <br>
+ <p>
+  Caso você queira sabe mais sobre mim, visite meu portifolio online <a href="https://gabrielsoaresceravolo.github.io"> neste link </a>!
  </p>
-</a>
+  <img src="https://github.com/gabrielsoaresceravolo/gabrielsoaresceravolo/assets/132103393/2f866590-badc-440e-b724-ec4463a7e8cb" />
+</div>
+
+<h2 align="center">:book: Livro de Visitas</h2>
+<p align="center">
+ Deixe uma mensagem, ou simplesmente assine para mostrar que você passou por aqui <a href=""> neste link </a>!
+</p>
+
 
 
