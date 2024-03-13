@@ -21,7 +21,12 @@
  <a href="https://wa.me/5518981421463"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
  <a href="https://t.me/share/url?url=https://t.me/@GabrielStrider"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
 
-### [Visite Meu Portifolio Online](https://gabrielsoaresceravolo.github.io)
 </div>
+
+<a href="https://gabrielsoaresceravolo.github.io">
+ <p align="center">
+  Visite Meu Portifolio Online
+ </p>
+</a>
 
 
