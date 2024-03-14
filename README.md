@@ -6,7 +6,7 @@
 
 <div align="center">
  <a href="https://git.io/typing-svg">
-  <img src="https://github.com/gabrielsoaresceravolo/gabrielsoaresceravolo/assets/132103393/4e86faf8-5f02-4126-a574-16008c15d453" alt="Typing SVG" />
+  <img src="https://github.com/gabrielsoaresceravolo/gabrielsoaresceravolo/assets/132103393/73b39a1c-8922-4694-b75e-55531eeb3672" alt="Typing SVG" />
  </a>
 </div>
 
