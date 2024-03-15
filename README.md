@@ -22,11 +22,7 @@
   </a>
  </p>
 
-<hr>
-
-<div align="center">
-  <img src="https://github.com/gabrielsoaresceravolo/gabrielsoaresceravolo/assets/132103393/b5836e17-ab50-4a61-8a09-de99b195ab0c" />
-</div>
+<hr
 
 <br>
 
