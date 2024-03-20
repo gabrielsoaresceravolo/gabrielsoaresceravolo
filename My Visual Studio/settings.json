@@ -1,0 +1,51 @@
+{
+    "workbench.startupEditor": "newUntitledFile",
+    "editor.fontSize": 13,
+    "editor.lineHeight": 1.8,
+    "javascript.suggest.autoImports": true,
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "editor.rulers": [80, 120],
+    "extensions.ignoreRecommendations": true,
+    "typescript.tsserver.log": "off",
+    "editor.parameterHints.enabled": false,
+    "editor.renderLineHighlight": "gutter",
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "editor.suggestSelection": "first",
+    "explorer.confirmDelete": false,
+    "terminal.integrated.showExitAlert": false,
+    "typescript.suggest.autoImports": true,
+    "workbench.editor.labelFormat": "short",
+    "editor.fontLigatures": true,
+    "editor.acceptSuggestionOnCommitCharacter": false,
+    "explorer.compactFolders": false,
+    "git.enableSmartCommit": true,
+    "editor.accessibilitySupport": "off",
+    "explorer.confirmDragAndDrop": false,
+    "terminal.integrated.fontSize": 14,
+    "terminal.integrated.fontFamily": "JetBrains Mono",
+    "editor.semanticHighlighting.enabled": false,
+    "breadcrumbs.enabled": false,
+    "editor.fontFamily": "JetBrains Mono",
+    "editor.tabSize": 2,
+    "security.workspace.trust.untrustedFiles": "newWindow",
+    "workbench.iconTheme": "material-icon-theme",
+    "apc.activityBar": 
+    {
+      "size": 40,
+      "itemMargin": 8,
+      "itemSize": 40
+    },
+    "editor.hideCursorInOverviewRuler": true,
+    "editor.minimap.enabled": false,
+    "apc.listRow": 
+    {
+      "height": 25
+    },
+    "apc.font.family": "JetBrains Mono",
+    "apc.stylesheet": 
+    {
+      ".title-label > h2": "display: none",
+    },
+    "workbench.colorTheme": "Minimal Dark",
+    "workbench.statusBar.visible": false
+  }

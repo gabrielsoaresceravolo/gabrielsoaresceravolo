@@ -1,0 +1,13 @@
+==================-========================================
+My visual studio uses the following Technologies / Sources:
+==================-========================================
+
+Font - JetBrains Mono: https://www.jetbrains.com/pt-br/lp/mono/
+
+=====
+
+Extension - APC Customize UI++: 	https://marketplace.visualstudio.com/items?itemName=drcika.apc-extension
+Extension - Minimal Dark: 		https://marketplace.visualstudio.com/items?itemName=Sadra1f.minimal-dark-s1f
+Extension - Material Icon Theme: 	https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme
+Extension - Snapcode:			https://marketplace.visualstudio.com/items?itemName=moyu.snapcode
+Extension - Live Server:		https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
