@@ -1,10 +1,10 @@
-==================-========================================
+===========================================================
 My visual studio uses the following Technologies / Sources:
-==================-========================================
+===========================================================
 
 Font - JetBrains Mono: https://www.jetbrains.com/pt-br/lp/mono/
 
-=====
+===============================================================
 
 Extension - APC Customize UI++: 	https://marketplace.visualstudio.com/items?itemName=drcika.apc-extension
 Extension - Minimal Dark: 		https://marketplace.visualstudio.com/items?itemName=Sadra1f.minimal-dark-s1f
