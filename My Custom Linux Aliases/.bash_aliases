@@ -11,16 +11,16 @@
 
 ### Meus aliases Personalizados:
 
-## Atualizações linux
+### Atualizações linux
 alias update-all='sudo apt update && sudo apt upgrade -y && sudo apt dist-upgrade -y && sudo apt autoremove -y'
 alias update='sudo apt update && sudo apt autoremove -y'
 alias update-version='sudo apt upgrade -y && sudo apt autoremove -y'
 
-## Atalhos
+### Atalhos
 alias mkdir='mkdir -pv'
 alias ssh-start='sudo systemctl start ssh 60 sudo systemctl status ssh'
 alias ips='ip -c -br a'
 alias ports='sudo netstat -tulanp'
 
-## Aplicativos instalados
+### Aplicativos instalados
 alias vpn-start='sudo windscribe connect best && sudo windscribe status'
