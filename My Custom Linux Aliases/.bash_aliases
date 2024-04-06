@@ -13,7 +13,7 @@
 
 ## Atualizações linux
 alias update-all='sudo apt update && sudo apt upgrade -y && sudo apt dist-upgrade -y && sudo apt autoremove -y'
-alias update='sudo apt update o sudo apt autoremove-y'
+alias update='sudo apt update && sudo apt autoremove -y'
 alias update-version='sudo apt upgrade -y && sudo apt autoremove -y'
 
 ## Atalhos
