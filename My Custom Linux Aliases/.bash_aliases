@@ -18,8 +18,8 @@ alias update-version='sudo apt upgrade -y && sudo apt autoremove -y'
 
 ### Atalhos
 alias mkdir='mkdir -pv'
-alias ssh-start='sudo systemctl start ssh 60 sudo systemctl status ssh'
-alias ips='ip -c -br a'
+alias ssh-start='sudo systemctl start ssh && sudo systemctl status ssh'
+alias ips='sudo ip -c -br a'
 alias ports='sudo netstat -tulanp'
 
 ### Aplicativos instalados
