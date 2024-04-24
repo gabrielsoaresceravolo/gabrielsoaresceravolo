@@ -2,7 +2,7 @@
 
 <div align="center">
  <a href="https://git.io/typing-svg">
-  <img src="https://github.com/gabrielsoaresceravolo/gabrielsoaresceravolo/assets/132103393/69508caa-3a5b-4691-9bd1-b17421cea47d" alt="Typing SVG" />
+  <img src="https://github.com/gabrielsoaresceravolo/gabrielsoaresceravolo/assets/132103393/19610072-e289-42e2-875a-3663175949aa" alt="Typing SVG" />
  </a>
 </div>
 
@@ -10,7 +10,7 @@
 
 <div align="center">
  <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Consolas&size=30&duration=3000&pause=3000&color=9DA7B6&center=true&vCenter=true&random=false&width=435&lines=Welcome+to+My+Profile" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Consolas&size=30&duration=3000&pause=3000&color=FFFFFF&center=true&vCenter=true&random=false&width=435&lines=Welcome+to+My+Profile" alt="Typing SVG" />
  </a>
 </div>
 
@@ -35,6 +35,6 @@
 
 <div align="center">
  <p>
-  <h3> Caso você queira sabe mais sobre mim, visite meu portifolio online <a href="https://gabrielsoaresceravolo.github.io">neste link</a> </h3>
+  <h3> If you want to know more about me, visit my online portfolio <a href="https://gabrielsoaresceravolo.github.io">HERE</a> </h3>
  </p>
 </div>
