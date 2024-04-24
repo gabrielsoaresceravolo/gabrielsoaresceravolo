@@ -35,6 +35,6 @@
 
 <div align="center">
  <p>
-  <h3> If you want to know more about me, visit my online portfolio <a href="https://gabrielsoaresceravolo.github.io">HERE</a> </h3>
+  <h3>If you want to know more about me, visit my online portfolio <a href="https://gabrielsoaresceravolo.github.io">HERE</a></h3>
  </p>
 </div>
