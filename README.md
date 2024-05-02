@@ -22,7 +22,7 @@
   </a>
  </p>
 
-<hr
+<hr>
 
 <br>
 
@@ -34,7 +34,5 @@
 </div>
 
 <div align="center">
- <p>
-  <h3>If you want to know more about me, visit my online portfolio <a href="https://gabrielsoaresceravolo.github.io">HERE</a></h3>
- </p>
+ <h3> My Portifolio - https://gabrielsoaresceravolo.github.io </h3>
 </div>
