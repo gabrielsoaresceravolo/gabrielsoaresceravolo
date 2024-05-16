@@ -36,3 +36,9 @@
 <div align="center">
  <h3> My Portifolio - https://gabrielsoaresceravolo.github.io </h3>
 </div>
+
+<br>
+
+> [!IMPORTANT]
+> When you feel the urge to make excuses for something, challenge yourself: 'What can I do to resolve this situation?'
+
