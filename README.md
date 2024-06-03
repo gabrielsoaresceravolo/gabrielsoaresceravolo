@@ -10,7 +10,7 @@
 
 <div align="center">
  <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Consolas&size=30&duration=3000&pause=3000&color=FFFFFF&center=true&vCenter=true&random=false&width=435&lines=Welcome+to+My+Profile" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Consolas&size=30&duration=3000&pause=3000&color=FFFFFF&center=true&vCenter=true&random=false&width=435&lines=Welcome+To+My+Profile" alt="Typing SVG" />
  </a>
 </div>
 
