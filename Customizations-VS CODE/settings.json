@@ -1,3 +1,14 @@
+/* 
+
+Settings editor 
+
+Use the Settings editor to review and change VS Code settings. 
+To open the Settings editor, navigate to File > Preferences > Settings 
+Alternately, open the Settings editor from the Command Palette (Ctrl+Shift+P) 
+with Preferences: Open Settings or use the keyboard shortcut (Ctrl+,) 
+
+*/
+
 {
     "workbench.startupEditor": "newUntitledFile",
     "editor.fontSize": 13,
