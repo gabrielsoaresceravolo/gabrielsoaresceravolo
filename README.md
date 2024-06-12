@@ -34,7 +34,7 @@
 </div>
 
 <div align="center">
- <h3> My Portifolio - https://gabrielsoaresceravolo.github.io </h3>
+ <h3> My Portfolio - https://gabrielsoaresceravolo.github.io </h3>
 </div>
 
 <br>
